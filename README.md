@@ -30,6 +30,8 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
   - Lasso elimated 110 features (including dummy variables). Identified top 25 features based on beta coefficient values.
   - Evaluate both the model on training and test dataset.
 
+**Notebook** : https://github.com/anikch/house-price-prediction-Ridge_Lasso/blob/main/housing_price_prediction.ipynb
+
 **Observations:**
   - Ridge and Lasso both the models have almost same test and train accuracy. So it can be said that there is no overfitting.
   - Lasso and Ridge both have similar r2 score and MAE on test dataset. But Lasso has eliminated 110 features and final no. of features in Lasso Regression model is 116. Where     - Ridge has all 226 features. So, our Lasso model is simpler than Ridge with having similar r2 score and MAE.
