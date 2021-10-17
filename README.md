@@ -1,4 +1,4 @@
-House Price Prediction using Ridge and Lasso
+Housing Price Prediction using Ridge and Lasso Regression
 
 **Problem Statemenet:**
 
