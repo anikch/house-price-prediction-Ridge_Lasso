@@ -10,7 +10,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 **Approach Taken:**
 - Reading and Understanding the Data
 - Basic Data Cleanup
-  -- Missing value check and imputation using Business Logic.
+  - Missing value check and imputation using Business Logic.
   -- Cahnging data types of the variables.
 - Exploratory Data Analysis:
   -- Performed AutoEDA using SweetViz to identify important variable.
