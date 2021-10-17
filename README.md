@@ -38,4 +38,4 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
   - Considering above points we can choose our Lasso Regression model as our final model.
 
 
-        ![download](https://user-images.githubusercontent.com/77941537/137640772-e7149f0e-1351-4f5c-8073-a65e19017882.png)
+       ![download](https://user-images.githubusercontent.com/77941537/137640772-e7149f0e-1351-4f5c-8073-a65e19017882.png)
